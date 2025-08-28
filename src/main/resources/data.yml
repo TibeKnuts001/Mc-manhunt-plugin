@@ -1,0 +1,11 @@
+# DO NOT TOUCH
+
+hunters: [ ]
+runners: [ ]
+
+manhunt_ended: true
+
+
+resourcepack:
+  link: "https://download.mc-packs.net/pack/0235cd4bdda6b1fdc32c7b2f8dd10f83bd0f4d94.zip"
+  hash: "0235cd4bdda6b1fdc32c7b2f8dd10f83bd0f4d94"

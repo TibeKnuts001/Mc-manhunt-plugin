@@ -1,0 +1,4 @@
+#If the world should be reset when the manhunt ends
+Reset_world: true
+#If the resource pack should be applied automaticly else you can do /manhunt resourcepack [player] to apply it.
+Resource_pack: true

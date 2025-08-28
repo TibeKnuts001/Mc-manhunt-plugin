@@ -1,0 +1,13 @@
+name: Manhunt
+version: '${project.version}'
+main: me.tibeknuts001.Manhunt
+api-version: '1.21'
+commands:
+  Manhunt:
+    description: "The Main command of the plugin"
+    usage: "/Manhunt <hunters/runners/stop> <list/add/remove/clear> [player]"
+    permission: Manhunt.command.use
+    permission-message: "You have no permission!"
+permissions:
+  Manhunt.command.use:
+    default: true
